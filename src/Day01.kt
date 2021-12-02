@@ -150,6 +150,9 @@ fun main() {
         println("Result: \n\n$outPut")
     }
 
+    /**
+     * Part 2 applies sliding window algorithm pattern.
+     * */
     fun solveSonarSweepPart2(input: List<String>) {
         val outPut = StringBuilder()
         val runningSum = arrayListOf<Int>()
