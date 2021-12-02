@@ -1,5 +1,9 @@
 # aoc-2021
 
+> Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away. 
+> 
+> By Antoine de Saint-Exupéry
+
 Welcome to the Advent of Code[^aoc] Kotlin project created by [jerryokafor][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
 In this repository, jerryokafor is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
